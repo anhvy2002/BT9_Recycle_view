@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AV/BT9_Recycle_view/app/src/main/res/drawable/recyclerview_bg.xml" value="0.1" />
+        <entry key="..\:/AV/BT9_Recycle_view/app/src/main/res/drawable/users_bg.xml" value="0.1" />
+        <entry key="..\:/AV/BT9_Recycle_view/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AV/BT9_Recycle_view/app/src/main/res/layout/row_users.xml" value="0.1" />
+        <entry key="..\:/Git/recyclerview-with-search-and-clicklistener/app/src/main/res/drawable/ic_navigate_next_black_24dp.xml" value="0.2555" />
+        <entry key="..\:/Git/recyclerview-with-search-and-clicklistener/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Git/recyclerview-with-search-and-clicklistener/app/src/main/res/layout/activity_selected_user.xml" value="0.1" />
+        <entry key="..\:/Git/recyclerview-with-search-and-clicklistener/app/src/main/res/layout/row_users.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
